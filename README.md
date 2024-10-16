@@ -1,5 +1,7 @@
 # Hi there, I'm Monika M! 👋
-**About me**
+
+**About me** 
+
 An enthusiastic student eager to apply my knowledge in a practical setting and seeking opportunities to gain hands-on experience and develop new skills.
 
 🔭 **I’m currently working on**  
