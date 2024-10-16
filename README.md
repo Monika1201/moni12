@@ -16,7 +16,7 @@ HTML, CSS, JavaScript, React, and exploring new frontend frameworks.
 [mohanmonika47@gmail.com] 
 
 📁 **Portfolio:**  
-*[Portfolio] (https://www.figma.com/proto/nLn6uNz2bpAqO73ritfGRg/Untitled?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=92%2C-114%2C0.62&t=N23TaTUziDIR1g4h-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2)
+[Portfolio](https://www.figma.com/proto/nLn6uNz2bpAqO73ritfGRg/Untitled?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=92%2C-114%2C0.62&t=N23TaTUziDIR1g4h-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2)
 
 ---
 
@@ -41,7 +41,7 @@ HTML, CSS, JavaScript, React, and exploring new frontend frameworks.
 ---
 
 ### Know about my experience:
-*[Resume](https://moniresume.tiiny.site)
+[Resume](https://moniresume.tiiny.site)
 
 ---
 
