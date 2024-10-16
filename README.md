@@ -1,19 +1,56 @@
-# moni12
-Hello world! 
-<h1 align="center">Hi 👋, I'm Monika M</h1>
-<h3 align="center">AN enthusiastic frontend developer</h3>
+# Hi there, I'm Monika M! 👋
 
-- 🔭 I’m currently working on **Deep Learning**
+🔭 **I’m currently working on**  
+Frontend development projects using React, JavaScript, and modern web technologies.
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React**
+👯 **I’m looking to collaborate on**  
+Frontend development projects, especially involving React, JavaScript, and UI/UX design.
 
-- 👨‍💻 All of my projects are available at [https://www.figma.com/proto/nLn6uNz2bpAqO73ritfGRg/Untitled?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=92%2C-114%2C0.62&t=N23TaTUziDIR1g4h-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2](https://www.figma.com/proto/nLn6uNz2bpAqO73ritfGRg/Untitled?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=92%2C-114%2C0.62&t=N23TaTUziDIR1g4h-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2)
+🤝 **I’m looking for help with**  
+Building scalable and efficient web applications.
 
-- 📄 Know about my experiences [https://moniresume.tiiny.site](https://moniresume.tiiny.site)
+🌱 **I’m currently learning**  
+HTML, CSS, JavaScript, React, and exploring new frontend frameworks.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+📫 **How to reach me**  
+[mohanmonika47@gmail.com] 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+📁 **Portfolio:**  
+*[Portfolio] (https://www.figma.com/proto/nLn6uNz2bpAqO73ritfGRg/Untitled?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=92%2C-114%2C0.62&t=N23TaTUziDIR1g4h-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2)
+
+---
+
+### 🛠 Skills:
+- **Languages:**  
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+- **Frameworks & Libraries:**  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+  ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+
+- **Tools:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+### Know about my experience:
+*[Resume](https://moniresume.tiiny.site)
+
+---
+
+### 📞 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/monika-m-it-88a982298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/your-profile](https://x.com/Monika15182391?t=hfRvXOadNeBOOkNzv-AQuA&s=08))  
+
+---
+
+⚡ **Fun fact:**  
+I love creating smooth animations and seamless user experiences.
