@@ -23,11 +23,12 @@ HTML, CSS, JavaScript, React, and exploring new frontend frameworks.
 Built a real-time tire defect detection system using deep learning techniques.  
 The system used the YOLOv8 algorithm, a state-of-the-art object detection algorithm, to detect defects such as cuts, bead damage, and bulges on tires from images captured in real time.
 
----
 
 ## Bus Ticket Booking System
 Built a project that aims to develop a web-based platform that allows users to search for bus routes, view bus schedules, and book tickets online.  
 The project is managed using the Scrum framework in Jira to ensure agile development and efficient project tracking.
+
+---
 
 📫 **How to reach me**  
 [mohanmonika47@gmail.com] 
@@ -35,7 +36,6 @@ The project is managed using the Scrum framework in Jira to ensure agile develop
 📁 **Portfolio:**  
 [Portfolio](https://www.figma.com/proto/nLn6uNz2bpAqO73ritfGRg/Untitled?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=92%2C-114%2C0.62&t=N23TaTUziDIR1g4h-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2)
 
----
 
 ### 🛠 Skills:
 - **Languages:**  
