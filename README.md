@@ -2,7 +2,7 @@
 
 **About me** 
 
-An enthusiastic student eager to apply my knowledge in a practical setting and seeking opportunities to gain hands-on experience and develop new skills.
+I am an enthusiastic frontend development explorer, constantly learning and experimenting with technologies like HTML, CSS, JavaScript, and modern frameworks. I enjoy discovering innovative ways to create responsive and engaging web interfaces.
 
 🔭 **I’m currently working on**  
 Frontend development projects using React, JavaScript, and modern web technologies.
@@ -22,16 +22,11 @@ HTML, CSS, JavaScript, React, and exploring new frontend frameworks.
 Built a real-time tire defect detection system using deep learning techniques.  
 The system used the YOLOv8 algorithm, a state-of-the-art object detection algorithm, to detect defects such as cuts, bead damage, and bulges on tires from images captured in real time.
 
-![Tire Defect Detection](tire-defect-detection-image)
-
 ---
 
 ## Bus Ticket Booking System
 Built a project that aims to develop a web-based platform that allows users to search for bus routes, view bus schedules, and book tickets online.  
 The project is managed using the Scrum framework in Jira to ensure agile development and efficient project tracking.
-
-![Bus Ticket Booking System](bus-ticket-booking-image)
-
 
 📫 **How to reach me**  
 [mohanmonika47@gmail.com] 
@@ -68,10 +63,10 @@ The project is managed using the Scrum framework in Jira to ensure agile develop
 
 ### 📞 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/monika-m-it-88a982298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/your-profile](https://x.com/Monika15182391?t=hfRvXOadNeBOOkNzv-AQuA&s=08))  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/monikamohan-m/](https://www.linkedin.com/in/monika-m-it-88a982298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)]([https://x.com/Monika15182391?t=n4wDS8Ja8H-rCSxCrUaZ2A&s=09])  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohanmonika47)
 ---
 
 ⚡ **Fun fact:**  
-I love creating smooth animations and seamless user experiences.
+I thought mastering cloud computing would be quick.
