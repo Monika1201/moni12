@@ -1,8 +1,8 @@
 # Hi there,
 <h1 align="center"> I'm Monika M! 👋</h1>
 <h3 align="center"> A frontend development explorer </h3>
-## About me
 
+# About me
 I am an enthusiastic frontend development explorer, constantly learning and experimenting with technologies like HTML, CSS, JavaScript, and modern frameworks. I enjoy discovering innovative ways to create responsive and engaging web interfaces.
 
 🔭 **I’m currently working on**  
