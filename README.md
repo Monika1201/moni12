@@ -63,8 +63,10 @@ The project is managed using the Scrum framework in Jira to ensure agile develop
 
 ### 📞 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/monikamohan-m/](https://www.linkedin.com/in/monika-m-it-88a982298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)]([https://x.com/Monika15182391?t=n4wDS8Ja8H-rCSxCrUaZ2A&s=09])  
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monikamohan-m/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Monika15182391?t=n4wDS8Ja8H-rCSxCrUaZ2A&s=09)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohanmonika47)
 ---
 
