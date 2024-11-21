@@ -16,6 +16,23 @@ Building scalable and efficient web applications.
 🌱 **I’m currently learning**  
 HTML, CSS, JavaScript, React, and exploring new frontend frameworks.
 
+# My Projects
+
+## Tire Defect Detection
+Built a real-time tire defect detection system using deep learning techniques.  
+The system used the YOLOv8 algorithm, a state-of-the-art object detection algorithm, to detect defects such as cuts, bead damage, and bulges on tires from images captured in real time.
+
+![Tire Defect Detection](tire-defect-detection-image)
+
+---
+
+## Bus Ticket Booking System
+Built a project that aims to develop a web-based platform that allows users to search for bus routes, view bus schedules, and book tickets online.  
+The project is managed using the Scrum framework in Jira to ensure agile development and efficient project tracking.
+
+![Bus Ticket Booking System](bus-ticket-booking-image)
+
+
 📫 **How to reach me**  
 [mohanmonika47@gmail.com] 
 
